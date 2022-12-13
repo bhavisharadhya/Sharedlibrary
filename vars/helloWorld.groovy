@@ -1,3 +1,3 @@
-def cal() {
+def call(body) {
   print "Hello Bhavish"
 }
