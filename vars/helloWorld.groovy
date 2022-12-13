@@ -1,3 +1,3 @@
 def cal() {
-  sh "Hello Bhavish"
+  echo "Hello Bhavish"
 }
